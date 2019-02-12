@@ -1,0 +1,141 @@
+# <!=Copyright (C) 2018 VW Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: VW driving school Pro Posttype\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:32:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VW Themes <info@vwthemes.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../vw-driving-school-pro-posttype\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: index.php:20 #: index.php:21
+msgid "Courses"
+msgstr""
+
+
+#: index.php:37 #: index.php:38
+msgid "Faq"
+msgstr""
+
+#: index.php:53 #: index.php:54
+msgid "Team"
+msgstr""
+
+#: index.php:70 #: index.php:71
+msgid "Testimonials"
+msgstr""
+
+#: index.php:88
+msgid "Enter Meta"
+msgstr""
+
+#: index.php:160
+msgid "Course Duration"
+msgstr""
+
+#: index.php:168
+msgid "Discount Price"
+msgstr""
+
+#: index.php:168
+msgid "Discount Price"
+msgstr""
+
+#: index.php:176 #: index.php:184 #: index.php:192 #: index.php:200 #: index.php:208 #: index.php:2016
+msgid "Enter Meta"
+msgstr""
+
+#: index.php:224
+msgid "Details Title Here"
+msgstr""
+ 
+#: index.php:232
+msgid " Email Id"
+msgstr""
+
+#: index.php:240
+msgid " Phone No."
+msgstr""
+
+#: index.php:315
+msgid "Enter Details"
+msgstr""
+
+#: index.php:359
+msgid "Designation"
+msgstr""
+
+#: index.php:367
+msgid "Facebook URL"
+msgstr""
+
+#: index.php:375
+msgid "Twitter URL"
+msgstr""
+
+#: index.php:383
+msgid "Linkedin URL"
+msgstr""
+
+#: index.php:391
+msgid "Googleplus URL"
+msgstr""
+
+#: index.php:440
+msgid "Enter Details"
+msgstr""
+
+#: index.php:499
+msgid "Email"
+msgstr""
+
+#: index.php:507
+msgid "Phone Number"
+msgstr""
+
+#: index.php:515
+msgid "Facebook URL"
+msgstr""
+
+#: index.php:523
+msgid "Linkedin URL"
+msgstr""
+
+#: index.php:531
+msgid "Twitter URL"
+msgstr""
+
+#: index.php:539
+msgid "GooglePlus URL"
+msgstr""
+
+#: index.php:547
+msgid "Designation"
+msgstr""
+
+#: index.php:644 #: index.php:721  #: index.php:776 #: index.php:814
+msgid "Not Found"
+msgstr""
+
+#: index.php:539
+msgid "GooglePlus URL"
+msgstr""
+
+#: index.php:547
+msgid "Designation"
+msgstr""
+
+#: index.php:644
+msgid "Not Found"
+msgstr""
